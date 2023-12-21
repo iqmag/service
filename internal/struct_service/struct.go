@@ -1,4 +1,4 @@
-package struct_service
+package struct_data
 
 import (
 	"encoding/json"
